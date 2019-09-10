@@ -49,6 +49,8 @@
   "homepage": "https://github.com/aljaxus/bigteacher#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.15",
     "nodemon": "^1.18.10",
     "vue": "^2.6.9"
   }
